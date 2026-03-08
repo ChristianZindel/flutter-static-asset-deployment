@@ -1,2 +1,2 @@
 # flutter-static-asset-deployment
-Demo for static assets and deployment workflows
+This is a Demo for static assets and deployment workflows.
